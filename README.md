@@ -1,4 +1,4 @@
-
+git clone https://github.com/szabopeter92/git-vizsga
 git checkout -b console
 git add app.js    
 git commit -m "Added console log massage for page load"   
